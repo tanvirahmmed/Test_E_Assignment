@@ -41,7 +41,7 @@ public class TestLoginPage extends Base{
     public void testLoginWithDifferentUsersAndPasswords(){
 
         loginPage.usr.sendKeys("riz_aziz2002@mail.ru");
-        loginPage.pass.sendKeys("Skeptic777&");
+
         loginPage.btn_login.click();
 
     }
