@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e067cbd-e6d5-4b93-a312-6b1bc9dc558e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_9_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Amazon/src/main/java/data/DataProviderClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Amazon/src/main/java/pagefactory/AmazonLoginPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Amazon/src/main/java/pagefactory/AmazonMainPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Amazon/src/test/java/mainfunc/TestLoginPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Amazon/src/test/java/mainfunc/TestMainPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Amazon/src/test/java/mainfunc/TestSearchButton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Amazon/src/test/resources/AmozonSuite.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Generic/drivers/chromedriver" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Generic/drivers/geckodriver" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Generic/src/main/java/config/Base.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_8.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_6.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_27.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/Amazon.iml" afterPath="$PROJECT_DIR$/Amazon/Amazon.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/pom.xml" afterPath="$PROJECT_DIR$/Amazon/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/Generic.iml" afterPath="$PROJECT_DIR$/Generic/Generic.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/pom.xml" afterPath="$PROJECT_DIR$/Generic/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/src/test/java/mainfunc/TestLoginPage.java" afterPath="$PROJECT_DIR$/Amazon/src/test/java/mainfunc/TestLoginPage.java" />
     </list>
     <ignored path="WebTestAutomationFramework.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -85,7 +63,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AmozonSuite.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AmozonSuite.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmozonSuite.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -95,13 +73,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestLoginPage.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestLoginPage.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/mainfunc/TestLoginPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="42" column="54" selection-start-line="42" selection-start-column="54" selection-end-line="42" selection-end-column="54" />
+            <state relative-caret-position="396">
+              <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
               <folding>
-                <marker date="1474219185000" expanded="true" signature="535:634" ph="{...}" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -110,10 +88,10 @@
       <file leaf-file-name="TestSearchButton.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/mainfunc/TestSearchButton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+            <state relative-caret-position="465">
+              <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
               <folding>
-                <marker date="1474222777000" expanded="true" signature="803:869" ph="{...}" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -187,7 +165,6 @@
         <option value="$PROJECT_DIR$/Amazon/src/test/java/mainfunc/TestLogin.java" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/pagefactory/AmazonLoginPage.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/mainfunc/TestMainPage.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/test/java/mainfunc/TestLoginPage.java" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/pagefactory/AmazonMainPage.java" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/data/TestData.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/mainfunc/TestSearchButton.java" />
@@ -195,6 +172,7 @@
         <option value="$PROJECT_DIR$/Amazon/src/main/java/data/DataProviderClass.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/config/Base.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/resources/AmozonSuite.xml" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/mainfunc/TestLoginPage.java" />
       </list>
     </option>
   </component>
@@ -985,16 +963,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/mainfunc/TestLoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="42" column="54" selection-start-line="42" selection-start-column="54" selection-end-line="42" selection-end-column="54" />
-          <folding>
-            <marker date="1474219185000" expanded="true" signature="535:634" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/mainfunc/TestMainPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -1010,16 +978,6 @@
         <state relative-caret-position="255">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/mainfunc/TestSearchButton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
-          <folding>
-            <marker date="1474222777000" expanded="true" signature="803:869" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1074,6 +1032,26 @@
         <state relative-caret-position="60">
           <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/mainfunc/TestSearchButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/mainfunc/TestLoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
