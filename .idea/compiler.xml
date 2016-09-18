@@ -28,9 +28,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Amazon" target="1.5" />
+      <module name="Amazon" target="1.7" />
       <module name="Cigna" target="1.5" />
-      <module name="Generic" target="1.5" />
+      <module name="Generic" target="1.7" />
       <module name="WebTestAutomationFramework" target="1.5" />
     </bytecodeTargetLevel>
   </component>

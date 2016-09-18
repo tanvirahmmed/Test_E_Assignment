@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="AmazonTestSuite">
+
+    <parameter name="browser" value="firefox"/>
+    <parameter name ="os" value="mac"/>
+
+    <test name="MainPageFunctionality">
+
+        <classes>
+            <!--class name="mainfunc.TestMainPage"/>
+            <class name="mainfunc.TestLoginPage"/-->
+            <class name="mainfunc.TestSearchButton"/>
+        </classes>
+
+    </test>
+
+</suite>
